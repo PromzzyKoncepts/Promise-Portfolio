@@ -1,0 +1,24 @@
+{
+  "name": "promise-portfolio",
+  "description": "This is my portfolio website built with html css",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/style.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromzzyKoncepts/Promise-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromzzyKoncepts/Promise-Portfolio/issues"
+  },
+  "homepage": "https://github.com/PromzzyKoncepts/Promise-Portfolio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
